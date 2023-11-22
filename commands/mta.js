@@ -33,6 +33,3 @@ exports.run = (client, message, args) => {
 exports.config = {
   name: "sunucu",
   aliases:[]
-};
-
-//Clip Abipaylaştı sağda solda yaydım diye gezinmeyin 
